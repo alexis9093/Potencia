@@ -1,5 +1,5 @@
 #include "Potencia.h"
-#include <cstdlib>
+#include<cstdlib>
 #include <iostream>
 using namespace std;
 
